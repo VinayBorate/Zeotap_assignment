@@ -1,12 +1,10 @@
----
 # E-commerce Analysis System
-
 ## Project Description
-
 The **E-commerce Analysis System** is a comprehensive data analysis solution designed to handle customer segmentation, lookalike modeling, and exploratory data analysis. It consists of three main components:
 - **EDA Analysis**: Responsible for data exploration and statistical analysis.
 - **Customer Clustering**: Handles customer segmentation using K-means.
 - **Lookalike Modeling**: Generates similar customer recommendations.
+
 The system is designed to process customer transaction data, providing valuable business insights through various analytical approaches. The project includes features such as data visualization, metric calculations, and automated reporting.
 
 ## Technology and Frameworks Used
@@ -23,7 +21,6 @@ The system is designed to process customer transaction data, providing valuable 
 │   ├── Vinay_Borate_Lookalike.ipynb
 │   ├── Vinay_Borate_EDA.pdf
 │   ├── Vinay_Borate_Clustering.pdf
-
 ```
 
 ## Installation and Setup
@@ -81,6 +78,3 @@ pip install pandas scikit-learn matplotlib seaborn numpy
 
 ## Author
 Vinay Borate
-
-
----
