@@ -1,6 +1,8 @@
 ---
 # E-commerce Analysis System
+
 ## Project Description
+
 The **E-commerce Analysis System** is a comprehensive data analysis solution designed to handle customer segmentation, lookalike modeling, and exploratory data analysis. It consists of three main components:
 - **EDA Analysis**: Responsible for data exploration and statistical analysis.
 - **Customer Clustering**: Handles customer segmentation using K-means.
